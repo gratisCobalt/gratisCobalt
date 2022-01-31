@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [revolutionAIR](https://github.com/W33atgrav3landr0cks/revolutionAIR)
 
-- 🌱 I’m currently learning **Flutter, Spring**
+- 🌱 I’m currently learning **Flutter, Python, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gratisCobalt](https://github.com/gratisCobalt)
+- 👨‍💻 All of my projects are available at [https://github.com/gratisCobalt?tab=repositories](https://github.com/gratisCobalt?tab=repositories)
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about **Python, Java, SQL**
 
 - 📫 How to reach me **info@dominikhein.de**
 
