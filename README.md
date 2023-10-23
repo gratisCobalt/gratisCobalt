@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [revolutionAIR](https://github.com/W33atgrav3landr0cks/revolutionAIR)
 
-- 🌱 I’m currently learning **Flutter, Python, Java**
+- 🌱 I’m currently learning **Mojo, C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gratisCobalt?tab=repositories](https://github.com/gratisCobalt?tab=repositories)
 
@@ -19,23 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/cobalt7" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cobalt7" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/domi55042242" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="domi55042242" height="30" width="40" />
-    </a>
     <a href="https://linkedin.com/in/domih2110" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domih2110" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/13909487" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13909487" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/domi_2110" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="domi_2110" height="30" width="40" />
-    </a>
-    <a href="https://dribbble.com/cobalt" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="cobalt" height="30" width="40" />
     </a>
     <a href="https://discord.gg/mP3j5Xv" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mP3j5Xv" height="30" width="40" />
