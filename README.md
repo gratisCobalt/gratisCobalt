@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gratiscobalt" alt="gratiscobalt" /></a> </p>
 
-- 🔭 I’m currently working on [revolutionAIR](https://github.com/W33atgrav3landr0cks/revolutionAIR)
-
-- 🌱 I’m currently learning **Mojo, C**
-
-- 👨‍💻 All of my projects are available at [https://github.com/gratisCobalt?tab=repositories](https://github.com/gratisCobalt?tab=repositories)
-
-- 💬 Ask me about **Python, Java, SQL**
-
 - 📫 How to reach me **info@dominikhein.de**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/domih2110/](https://www.linkedin.com/in/domih2110/)
