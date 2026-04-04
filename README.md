@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=gratisCobalt&color=00FF00&style=flat-square&label=profile+views)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%24+ssh+gratisCobalt%40github;Welcome+to+my+terminal.)](https://git.io/typing-svg)
 
 </div>
@@ -92,14 +94,4 @@ info@dominikhein.de
 
 ---
 
-<div align="center">
-
-```
-[visitor@gratisCobalt ~]$ exit
-logout
-Connection to github.com closed.
-```
-
-![](https://komarev.com/ghpvc/?username=gratisCobalt&color=00FF00&style=flat-square&label=profile+views)
-
-</div>
+<p align="center"><code>[visitor@gratisCobalt ~]$ exit</code><br><code>logout</code><br><code>Connection to github.com closed.</code></p>
