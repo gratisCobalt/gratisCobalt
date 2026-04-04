@@ -60,7 +60,7 @@ everything that moves.
 | [`ChatsystemLGS`](https://github.com/ChatsystemLGS/general) | Client-server chat app with E2E encryption | Java, JavaFX |
 | [`Erudita`](https://github.com/gratisCobalt/Erudita) | Wiki & knowledge base with Markdown articles and search | PHP |
 | [`Zahnheld`](https://github.com/VIVIENDO-GmbH-Developer/Zahnheld) | Online shop for Zahnheld | Liquid, Shopify |
-| [`shopify-health-monitor`](https://github.com/VIVIENDO-GmbH-Developer/shopify-health-monitor) | Monitors health of all sub-routes & resources of a Shopify shop | — |
+| [`shopify-health-monitor`](https://github.com/VIVIENDO-GmbH-Developer/shopify-health-monitor) | Monitors health of all sub-routes & resources of a Shopify shop | JavaScript, Docker |
 
 ---
 
