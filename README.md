@@ -55,10 +55,12 @@ everything that moves.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [`dominikhein.de`](https://github.com/gratisCobalt/dominikhein.de) | Personal website & portfolio | TypeScript |
-| [`bbb_bot`](https://github.com/gratisCobalt/bbb_bot) | Automation bot for BigBlueButton conferences | Python |
-| [`Erudita`](https://github.com/gratisCobalt/Erudita) | Open-source learning platform | PHP |
-| [`Im-a-dolphin`](https://github.com/gratisCobalt/Im-a-dolphin) | Because why not | Python |
+| [`sculpt`](https://github.com/gratisCobalt/sculpt) | Gamified fitness tracker with AI training plans & progress analytics | TypeScript, React |
+| [`device-client`](https://github.com/revolutionAIR-air-desinfection/device-client) | ESP8266 IoT firmware for smart air disinfection devices | C, Arduino |
+| [`ChatsystemLGS`](https://github.com/ChatsystemLGS/general) | Client-server chat app with E2E encryption | Java, JavaFX |
+| [`Erudita`](https://github.com/gratisCobalt/Erudita) | Wiki & knowledge base with Markdown articles and search | PHP |
+| [`Zahnheld`](https://github.com/VIVIENDO-GmbH-Developer/Zahnheld) | Online shop for Zahnheld | Liquid, Shopify |
+| [`shopify-health-monitor`](https://github.com/VIVIENDO-GmbH-Developer/shopify-health-monitor) | Monitors health of all sub-routes & resources of a Shopify shop | — |
 
 ---
 
