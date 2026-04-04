@@ -1,105 +1,105 @@
-<h1 align="center">Hi 👋, I'm Dominik</h1>
-<h3 align="center">A passionate developer from Germany</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gratiscobalt&label=Profile%20views&color=0e75b6&style=flat" alt="gratiscobalt" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%24+ssh+gratisCobalt%40github;Welcome+to+my+terminal.)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gratiscobalt" alt="gratiscobalt" /></a> </p>
+</div>
 
-- 📫 How to reach me **info@dominikhein.de**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/domih2110/](https://www.linkedin.com/in/domih2110/)
+### `$ whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/domih2110" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domih2110" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/mP3j5Xv" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mP3j5Xv" height="30" width="40" />
-    </a>
-</p>
+```
+gratisCobalt@github
+--------------------------
+Name:      Dominik
+Location:  Germany
+Role:      Full-Stack Developer
+Website:   dominikhein.de
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">     
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-    </a>
-</p>
+Currently building things for the web,
+tinkering with hardware, and automating
+everything that moves.
+```
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gratiscobalt&show_icons=true&locale=en&layout=compact" alt="gratiscobalt" />
-</p>
+---
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gratiscobalt&show_icons=true&locale=en" alt="gratiscobalt" />
-</p>
+### `$ cat /proc/tech_stack`
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gratiscobalt&" alt="gratiscobalt" />
-</p>
+<div align="center">
+
+**`// languages`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,php,html,css&theme=dark" />
+</a>
+
+**`// frameworks & runtime`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs&theme=dark" />
+</a>
+
+**`// infra & tools`**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,postgres,arduino,linux,git&theme=dark" />
+</a>
+
+</div>
+
+---
+
+### `$ ls ~/projects --sort=priority`
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [`dominikhein.de`](https://github.com/gratisCobalt/dominikhein.de) | Personal website & portfolio | TypeScript |
+| [`bbb_bot`](https://github.com/gratisCobalt/bbb_bot) | Automation bot for BigBlueButton conferences | Python |
+| [`Erudita`](https://github.com/gratisCobalt/Erudita) | Open-source learning platform | PHP |
+| [`Im-a-dolphin`](https://github.com/gratisCobalt/Im-a-dolphin) | Because why not | Python |
+
+---
+
+### `$ neofetch --stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gratisCobalt&show_icons=true&theme=chartreuse-dark&bg_color=000000&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=gratisCobalt&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&sideNums=00FF00&dates=006600&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratisCobalt&layout=compact&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF00&text_color=00FF00" height="150" />
+</div>
+
+---
+
+### `$ cat ~/.contact`
+
+```
+info@dominikhein.de
+├── Email ........ info@dominikhein.de
+├── LinkedIn ..... linkedin.com/in/dominikhein
+└── Web .......... dominikhein.de
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-info%40dominikhein.de-00FF00?style=flat-square&logo=mail.ru&logoColor=00FF00&labelColor=000000&color=000000)](mailto:info@dominikhein.de)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dominikhein-00FF00?style=flat-square&logo=linkedin&logoColor=00FF00&labelColor=000000&color=000000)](https://www.linkedin.com/in/dominikhein/)
+[![Website](https://img.shields.io/badge/Web-dominikhein.de-00FF00?style=flat-square&logo=firefox&logoColor=00FF00&labelColor=000000&color=000000)](https://dominikhein.de)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[visitor@gratisCobalt ~]$ exit
+logout
+Connection to github.com closed.
+```
+
+![](https://komarev.com/ghpvc/?username=gratisCobalt&color=00FF00&style=flat-square&label=profile+views)
+
+</div>
