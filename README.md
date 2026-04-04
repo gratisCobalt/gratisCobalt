@@ -65,12 +65,13 @@ everything that moves.
 ### `$ neofetch --stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gratisCobalt&show_icons=true&theme=chartreuse-dark&bg_color=000000&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gratisCobalt&theme=github_dark" height="165" />
   <img src="https://streak-stats.demolab.com/?user=gratisCobalt&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&sideNums=00FF00&dates=006600&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gratisCobalt&layout=compact&theme=chartreuse-dark&bg_color=000000&hide_border=true&title_color=00FF00&text_color=00FF00" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gratisCobalt&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gratisCobalt&theme=github_dark" height="165" />
 </div>
 
 ---
