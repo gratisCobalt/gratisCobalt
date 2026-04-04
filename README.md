@@ -15,7 +15,7 @@ gratisCobalt@github
 --------------------------
 Name:      Dominik
 Location:  Germany
-Role:      Full-Stack Developer
+Role:      Web Developer
 Website:   dominikhein.de
 
 Currently building things for the web,
